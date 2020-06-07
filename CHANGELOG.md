@@ -1,6 +1,9 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
+## 2.4.1 - 2020-06-07
+
+- Fix Ubuntu 20.04 dependencies: libssl-dev, ligdbm6
 
 ## 2.3.2 - 2020-05-05
 
